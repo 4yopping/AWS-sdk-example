@@ -1,0 +1,17 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "Examples for amazon aws",
+  "main": "index.js",
+  "dependencies": {
+    "aws-promised": "^2.9.0",
+    "aws-sdk": "^2.2.28",
+    "bluebird": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
